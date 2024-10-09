@@ -11,4 +11,8 @@ public class Main {
         System.out.println("Hola clase de EPD 1");
     }
 
+    public static void explicacion() {
+        System.out.println("Esto ha sido hecho en una clase de github");
+    }
+
 }
